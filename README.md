@@ -14,7 +14,7 @@
  <img align="center" alt="Node" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="MySql" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- <img align="center" alt="Tailwind" height="30" width="40" <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+ <img align="center" alt="Tailwind" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
           
 </div>
  <br>
